@@ -8,3 +8,4 @@ if len(unique_Number)>=2:
 
 else:
     print("NO second Largest Value is there ")    
+    
